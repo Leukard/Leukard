@@ -11,7 +11,6 @@
   <a href="https://www.instagram.com/soudev.hugo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Localização-Salvador,%20BA-2E6E62?style=flat" />
 </p>
 
 ## 🚀 Sobre mim
